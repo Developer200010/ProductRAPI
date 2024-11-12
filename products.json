@@ -1,0 +1,289 @@
+[
+    {
+        "name": "Galaxy",
+        "price": 799,
+        "feature": "5G, High-Resolution Camera",
+        "company": "Samsung",
+        "rating": 4.5
+    },
+    {
+        "name": "iPhone",
+        "price": 1099,
+        "feature": "Face ID, A16 Bionic Chip",
+        "company": "Apple",
+        "rating": 4.8
+    },
+    {
+        "name": "Dell",
+        "price": 1199,
+        "feature": "4K Display, InfinityEdge",
+        "company": "Dell",
+        "rating": 4.6
+    },
+    {
+        "name": "Mi",
+        "price": 749,
+        "feature": "120W Fast Charging, AMOLED Display",
+        "company": "Mi",
+        "rating": 4.4
+    },
+    {
+        "name": "Galaxy",
+        "price": 429,
+        "feature": "Super AMOLED Display, Quad Camera",
+        "company": "Samsung",
+        "rating": 4.3
+    },
+    {
+        "name": "iPhone",
+        "price": 399,
+        "feature": "Compact Size, Powerful Processor",
+        "company": "Apple",
+        "rating": 4.2
+    },
+    {
+        "name": "Dell",
+        "price": 699,
+        "feature": "FHD Display, Long Battery Life",
+        "company": "Dell",
+        "rating": 4.1
+    },
+    {
+        "name": "Mi",
+        "price": 299,
+        "feature": "108MP Camera, High Capacity Battery",
+        "company": "Mi",
+        "rating": 4.0
+    },
+    {
+        "name": "Galaxy Z Fold3",
+        "price": 1799,
+        "feature": "Foldable Display, S Pen Support",
+        "company": "Samsung",
+        "rating": 4.5
+    },
+    {
+        "name": "iPhone 13 Mini",
+        "price": 699,
+        "feature": "Dual Camera, A15 Bionic",
+        "company": "Apple",
+        "rating": 4.3
+    },
+    {
+        "name": "Dell G5 Gaming",
+        "price": 999,
+        "feature": "Gaming Processor, RGB Keyboard",
+        "company": "Dell",
+        "rating": 4.4
+    },
+    {
+        "name": "Mi Mix 4",
+        "price": 899,
+        "feature": "Under-Display Camera, Ceramic Body",
+        "company": "Mi",
+        "rating": 4.2
+    },
+    {
+        "name": "Galaxy M32",
+        "price": 299,
+        "feature": "Super AMOLED, 6000mAh Battery",
+        "company": "Samsung",
+        "rating": 4.1
+    },
+    {
+        "name": "iPhone XR",
+        "price": 499,
+        "feature": "Liquid Retina Display, Face ID",
+        "company": "Apple",
+        "rating": 4.2
+    },
+    {
+        "name": "Dell Vostro 14",
+        "price": 749,
+        "feature": "Compact Design, Fast Processor",
+        "company": "Dell",
+        "rating": 4.0
+    },
+    {
+        "name": "Mi A3",
+        "price": 199,
+        "feature": "Android One, AMOLED Display",
+        "company": "Mi",
+        "rating": 3.9
+    },
+    {
+        "name": "Galaxy Note 20",
+        "price": 999,
+        "feature": "S Pen, Powerful Battery",
+        "company": "Samsung",
+        "rating": 4.3
+    },
+    {
+        "name": "iPhone 12 Pro",
+        "price": 999,
+        "feature": "LiDAR Scanner, Ceramic Shield",
+        "company": "Apple",
+        "rating": 4.7
+    },
+    {
+        "name": "Dell Latitude 15",
+        "price": 849,
+        "feature": "Business-Grade, Long Battery Life",
+        "company": "Dell",
+        "rating": 4.3
+    },
+    {
+        "name": "Mi 10T Pro",
+        "price": 549,
+        "feature": "5G, 144Hz Display",
+        "company": "Mi",
+        "rating": 4.1
+    },
+    {
+        "name": "Galaxy S20 FE",
+        "price": 599,
+        "feature": "120Hz Display, Triple Camera",
+        "company": "Samsung",
+        "rating": 4.2
+    },
+    {
+        "name": "iPhone 11",
+        "price": 599,
+        "feature": "Dual Camera, A13 Bionic",
+        "company": "Apple",
+        "rating": 4.4
+    },
+    {
+        "name": "Dell XPS 13",
+        "price": 1099,
+        "feature": "InfinityEdge Display, Lightweight",
+        "company": "Dell",
+        "rating": 4.6
+    },
+    {
+        "name": "Mi Poco X3",
+        "price": 249,
+        "feature": "Snapdragon Processor, Large Battery",
+        "company": "Mi",
+        "rating": 4.0
+    },
+    {
+        "name": "Galaxy A71",
+        "price": 349,
+        "feature": "Super AMOLED, Fast Charging",
+        "company": "Samsung",
+        "rating": 4.2
+    },
+    {
+        "name": "iPhone 8 Plus",
+        "price": 299,
+        "feature": "Dual Camera, Retina HD Display",
+        "company": "Apple",
+        "rating": 4.1
+    },
+    {
+        "name": "Dell Alienware M15",
+        "price": 1499,
+        "feature": "High Performance, RGB Lighting",
+        "company": "Dell",
+        "rating": 4.5
+    },
+    {
+        "name": "Mi 9 SE",
+        "price": 399,
+        "feature": "Triple Camera, Compact Design",
+        "company": "Mi",
+        "rating": 4.1
+    },
+    {
+        "name": "Galaxy Z Flip",
+        "price": 1299,
+        "feature": "Foldable Design, Compact",
+        "company": "Samsung",
+        "rating": 4.4
+    },
+    {
+        "name": "iPhone 7",
+        "price": 199,
+        "feature": "Water Resistant, Compact Design",
+        "company": "Apple",
+        "rating": 3.9
+    },
+    {
+        "name": "Dell Precision 15",
+        "price": 1799,
+        "feature": "Workstation-Grade, High-Performance",
+        "company": "Dell",
+        "rating": 4.7
+    },
+    {
+        "name": "Mi 8 Lite",
+        "price": 249,
+        "feature": "Dual Camera, Fast Processor",
+        "company": "Mi",
+        "rating": 4.0
+    },
+    {
+        "name": "Galaxy A32",
+        "price": 279,
+        "feature": "High-Resolution Camera, AMOLED",
+        "company": "Samsung",
+        "rating": 4.1
+    },
+    {
+        "name": "iPhone XS",
+        "price": 699,
+        "feature": "OLED Display, Face ID",
+        "company": "Apple",
+        "rating": 4.4
+    },
+    {
+        "name": "Dell Chromebook 11",
+        "price": 329,
+        "feature": "Compact, Easy to Use",
+        "company": "Dell",
+        "rating": 4.0
+    },
+    {
+        "name": "Mi 10 Lite",
+        "price": 349,
+        "feature": "5G Support, Long Battery Life",
+        "company": "Mi",
+        "rating": 4.1
+    },
+    {
+        "name": "Galaxy M51",
+        "price": 399,
+        "feature": "7000mAh Battery, AMOLED Display",
+        "company": "Samsung",
+        "rating": 4.3
+    },
+    {
+        "name": "iPhone 13 Pro",
+        "price": 999,
+        "feature": "ProMotion Display, A15 Chip",
+        "company": "Apple",
+        "rating": 4.8
+    },
+    {
+        "name": "Dell Inspiron 13",
+        "price": 849,
+        "feature": "Lightweight, Portable",
+        "company": "Dell",
+        "rating": 4.3
+    },
+    {
+        "name": "Mi 11 Lite",
+        "price": 299,
+        "feature": "Slim Design, AMOLED Display",
+        "company": "Mi",
+        "rating": 4.2
+    },
+    {
+        "name": "Galaxy S10",
+        "price": 499,
+        "feature": "Dynamic AMOLED, Wireless Charging",
+        "company": "Samsung",
+        "rating": 4.4
+    }
+]
